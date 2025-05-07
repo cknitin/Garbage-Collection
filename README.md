@@ -226,4 +226,3 @@ WeakReference<MyClass> weakRef = new WeakReference<MyClass>(new MyClass());
 
 ---
 
-Would you like a cheat sheet PDF or summary slide for this?
